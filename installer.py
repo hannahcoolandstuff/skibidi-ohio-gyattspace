@@ -22,7 +22,8 @@ It Actually Have
 * Root Access
 * Support File Persistance
 * Entierly in web browser
-* Bypass School Network
+* Steam Games
+* Fortnite
 * Fast VMs Using KVM (Windows and Linux)
 
 """
