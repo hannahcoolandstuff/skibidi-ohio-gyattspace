@@ -12,9 +12,9 @@ def savejson(json):
 #####################
 
 Head="""
-# DesktopOnCodespaces Installer
+# DesktopOnCodespacesFix Installer
 
-> DesktopOnCodespaces Allow you to run grapical linux and windows apps in your codespace for free.
+> DesktopOnCodespacesFix Allow you to run grapical linux and windows apps in your codespace for free.
 
 It Actually Have
 * Windows App Support (using wine)
@@ -28,7 +28,8 @@ It Actually Have
 
 """
 InstallHead="""
-# DesktopOnCodespaces Installer
+# DesktopOnCodespacesFix
+        Options
 """     
 
 LINES = ["KDE Plasma (Heavy)", "XFCE4 (Lightweight)", "I3 (Very Lightweight)"]
