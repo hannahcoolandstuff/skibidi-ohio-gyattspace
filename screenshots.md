@@ -3,4 +3,4 @@
 
 <img src="https://i.postimg.cc/tgsTRNBN/Screenshot-2023-12-19-08-54-58.png" style="width:300px;"/>
 
-<img src="https://i.imgur.com/QE7V9bp.png" style="width:375px;"/>
+<img src="https://i.postimg.cc/3J6rSv8y/duck-dancing-duck-unscreen.gif" style="width:375px;"/>
