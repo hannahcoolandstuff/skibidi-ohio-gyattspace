@@ -28,8 +28,7 @@ It Actually Have
 
 """
 InstallHead="""
-# DesktopOnCodespacesFix
-        Options
+# DesktopOnCodespacesFix Install Options
 """     
 
 LINES = ["KDE Plasma (Heavy)", "XFCE4 (Lightweight)", "I3 (Very Lightweight)"]
