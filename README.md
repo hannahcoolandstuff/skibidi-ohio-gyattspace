@@ -1,6 +1,6 @@
-# DesktopOnCodespaces (Beta)
+# DesktopOnCodespacesFix (Beta)
 
-[**See Screenshots**](https://git.mollomm1.dev/Mollomm1/DesktopOnCodespaces/src/branch/main/screenshots.md)
+[**See Screenshots**](https://github.com/BreadGhoti1/DesktopOnCodespacesFix/blob/main/screenshots.md)
 
 > ⚠️ This project is currently a work in progress and is still unfinished. While I'm actively working on it and making progress, there may still be bugs and incomplete features. ⚠️
 
@@ -13,8 +13,6 @@
 * Sound
 
 * Windows apps (wine)
-
-* Browsering (Brave and Firefox included!)
 
 * Home Persistance (You keep your files!)
 
