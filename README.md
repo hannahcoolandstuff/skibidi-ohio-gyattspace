@@ -25,13 +25,13 @@ it's very simple to install, there is a pseudo-graphical installer.
 first start a new codespace https://github.com/codespaces/new
 to install just copy and paste this command in your codespace terminal
 ```
-curl -O https://git.mollomm1.dev/Mollomm1/DesktopOnCodespaces/raw/branch/main/install.sh
+curl -O https://raw.githubusercontent.com/3kh0/DesktopOnCodespaces/main/install.sh
 chmod +x install.sh
 ./install.sh
 ```
 for dev branch (unstable)
 ```
-curl -O https://git.mollomm1.dev/Mollomm1/DesktopOnCodespaces/raw/branch/dev/install-dev.sh
+curl -O https://raw.githubusercontent.com/3kh0/DesktopOnCodespaces/main/install-dev.sh
 chmod +x install-dev.sh
 ./install-dev.sh
 ```
