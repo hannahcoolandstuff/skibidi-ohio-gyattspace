@@ -1,4 +1,4 @@
-git clone https://github.com/3kh0/DesktopOnCodespaces -b dev
+git clone https://github.com/BreadGhoti1/DesktopOnCodespacesFixish -b dev
 cd DesktopOnCodespaces
 pip install textual
 sleep 2
