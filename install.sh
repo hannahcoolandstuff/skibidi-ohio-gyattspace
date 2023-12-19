@@ -1,16 +1,16 @@
 git clone https://github.com/BreadGhoti1/DesktopOnCodespacesFixish
-cd DesktopOnCodespaces
+cd DesktopOnCodespacesFixish
 pip install textual
 sleep 2
 python3 installer.py
-docker build -t desktoponcodespaces . --no-cache
+docker build -t desktoponcodespacesfixish . --no-cache
 cd ..
 
 sudo apt update
 sudo apt install -y jq
 
 mkdir Save
-cp -r DesktopOnCodespaces/root/config/* Save
+cp -r DesktopOnCodespacesFixish/root/config/* Save
 
 json_file="DesktopOnCodespaces/options.json"
 if jq ".enablekvm" "$json_file" | grep -q true; then
