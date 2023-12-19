@@ -1,9 +1,9 @@
 git clone https://github.com/BreadGhoti1/DesktopOnCodespacesFix
-cd DesktopOnCodespacesFix
+cd DesktopOnCodespaces
 pip install textual
 sleep 2
 python3 installer.py
-docker build -t desktoponcodespacesfix . --no-cache
+docker build -t desktoponcodespaces . --no-cache
 cd ..
 
 sudo apt update
