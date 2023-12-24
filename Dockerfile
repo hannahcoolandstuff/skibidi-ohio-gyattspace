@@ -38,5 +38,5 @@ RUN \
     /tmp/*
   
 # ports and volumes
-EXPOSE 8080
+EXPOSE 3000
 VOLUME /config
