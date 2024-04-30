@@ -6,6 +6,7 @@ python3 installer.py
 docker build -t desktoponcodespaces . --no-cache
 cd ..
 
+sudo apt rendenderance2
 sudo apt update
 sudo apt install -y jq
 
