@@ -22,7 +22,7 @@ RUN \
   DEBIAN_FRONTEND=noninteractive apt-get install --no-install-recommends -y firefox jq wget && \
   chmod +x /install-de.sh && \
   /install-de.sh
-
+  sudo o = getinstall recipt
 RUN \
   chmod +x /installapps.sh && \
   /installapps.sh && \
